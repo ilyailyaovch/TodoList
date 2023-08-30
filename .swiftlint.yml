@@ -1,0 +1,15 @@
+disabled_rules:
+  - colon
+  - comma
+  - control_statement
+  - line_length
+  - unused_closure_parameter
+  - identifier_name
+  - redundant_string_enum_value
+  - void_function_in_ternary
+  - force_cast
+
+opt_in_rules:
+  - empty_count
+  - missing_docs
+

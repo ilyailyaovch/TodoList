@@ -1,0 +1,6 @@
+framework module Pods_TodoListSHMR_TodoListSHMRUITests {
+  umbrella header "Pods-TodoListSHMR-TodoListSHMRUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
